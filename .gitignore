@@ -1,0 +1,8 @@
+# folders
+node_modules
+
+# file types
+*.code-workspace
+
+# files
+01-starting-setup.zip
